@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SteamID Converter</string>
+    <string name="steam_id">STEAM_0:%1$d:%2$d</string>
+    <string name="steam_id_3">[U:1:%1$d]</string>
+    <string name="enter_steamid_above">Enter SteamID Above</string>
+    <string name="input_hint">Enter SteamID, SteamID3, SteamID64</string>
+    <string name="btn_label">Convert</string>
+</resources>
